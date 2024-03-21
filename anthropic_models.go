@@ -7,6 +7,7 @@ type AnthropicModel string
 const (
 	ModelClaude3Opus   AnthropicModel = "claude-3-opus-20240229"
 	ModelClaude3Sonnet AnthropicModel = "claude-3-sonnet-20240229"
+	ModelClaude3Haiku  AnthropicModel = "claude-3-haiku-20240307"
 
 	ModelClaude2     AnthropicModel = "claude-2"
 	ModelClaude2Dot1 AnthropicModel = "claude-2.1"
